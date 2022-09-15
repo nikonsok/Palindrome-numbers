@@ -1,5 +1,4 @@
 package com.epam.lections;
-import java.util.Scanner;
 
 public class PalindromeNum {
     public static void main(String[] args) {
